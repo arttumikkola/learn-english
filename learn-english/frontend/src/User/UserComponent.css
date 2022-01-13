@@ -1,0 +1,31 @@
+.score {
+  text-align: right;
+  margin: 20px;
+}
+
+.switchLanguage {
+  text-align: center;
+}
+
+.switchIcon {
+  color: aqua;
+  height: 30px;
+  width: 30px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.instructions {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.switchLanguage {
+  text-align: center;
+}
+
+small {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}

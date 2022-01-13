@@ -1,0 +1,29 @@
+.ag-theme-alpine {
+  height: 300px;
+  width: 402px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.ag-header-cell-label {
+  justify-content: center;
+}
+
+.deleteButton,
+.addButton {
+  margin: 20px;
+  padding: 10px;
+  width: 100px;
+  background-color: aqua;
+  border-radius: 7px;
+}
+
+.input {
+  display: block;
+  width: 100px;
+  height: 25px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -12,7 +12,7 @@ Admin view
 
 `npm install`
 
-`node index.js`
+`nodemon index.js`
 
 `cd frontend`
 

@@ -17,7 +17,3 @@ Admin view
 `cd frontend`
 
 `npm start`
-
-# Screencast
-
-https://www.youtube.com/watch?v=R0P9TulOnqA&ab_channel=ArttuMikkola
